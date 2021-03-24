@@ -51,7 +51,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: go.devninja.mgcosta.com
+  - host: go1.devninja.mgcosta.com
     http:
       paths:
         - path: /
